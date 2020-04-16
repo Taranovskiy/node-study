@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/Taranovskiy/node-study/issues"
   },
-  "homepage": "https://github.com/Taranovskiy/node-study#readme"
+  "homepage": "https://github.com/Taranovskiy/node-study#readme",
+  "dependencies": {
+    "chalk": "^4.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
 }
